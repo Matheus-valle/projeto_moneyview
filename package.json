@@ -1,0 +1,24 @@
+{
+  "name": "projeto_blog",
+  "version": "1.0.0",
+  "description": "Projeto Money View Matheus Valle <img width=\"1906\" height=\"927\" alt=\"image\" src=\"https://github.com/user-attachments/assets/5c994a69-28d0-427c-a85c-9d33cbcd79fb\" />",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matheus-valle/projeto_blog.git"
+  },
+  "author": "Matheus Valle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matheus-valle/projeto_blog/issues"
+  },
+  "homepage": "https://github.com/Matheus-valle/projeto_blog#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.2.1",
+    "path": "^0.12.7"
+  }
+}
